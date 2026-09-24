@@ -21,6 +21,7 @@ export default function Page() {
         <div className="px-6 pb-8 pt-10 sm:px-10 sm:pb-10 sm:pt-14">
           <div className="mb-14 flex items-start justify-between gap-6">
             <div>
+              <p className="mb-3 text-sm font-semibold uppercase tracking-[0.22em] text-[#5d8068]">Prince Vaviya</p>
               <p className="mb-5 text-sm font-medium uppercase tracking-[0.22em] text-[#5d8068]">Personal calling card</p>
               <h1 className="max-w-lg text-5xl font-semibold tracking-[-0.06em] text-[#365314] sm:text-7xl">Great developer</h1>
             </div>
